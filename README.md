@@ -1,5 +1,6 @@
-১. TypeScript এ ইন্টারফেস এবং টাইপ এর মধ্যে পার্থক্য ইন্টারফেস (Interfaces):
+১. TypeScript এ ইন্টারফেস এবং টাইপ এর মধ্যে পার্থক্য 
 
+:=>ইন্টারফেস (Interfaces):
 interface কীওয়ার্ড ব্যবহার করে ডিক্লেয়ার করতে হয়
 এক্সটেন্ড করা যায় (extends ব্যবহার করে)
 ডিক্লারেশন মার্জিং সাপোর্ট করে (একই নামের multiple interface automatically merge হয়)
